@@ -1,1 +1,1 @@
-This is a second directory am making from my CLI to upload to github locally, am proud of myself that amable to do this without any assistance just starring at this black screen and writing this knowinYES I KNOWM WHAT AM DOING
+This is a second directory am making from my CLI to upload to github locally, am proud of myself that amable to do this without any assistance just starring at this black screen and writing this knowing YES I KNOW WHAT AM DOING

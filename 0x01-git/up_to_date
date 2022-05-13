@@ -1,0 +1,3 @@
+to fetch the commits of the branch 'main' locally i used
+
+" git fetch origin main " to see all commits on the branch 'main'

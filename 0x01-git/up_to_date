@@ -1,2 +1,3 @@
-to fetch the changes or commits of a branch you do
-"git fetch origin main" wher 'main' is the branch name
+To pull an origin branch from live to local i used the
+
+" git pull https://github.com/sammykingx/alx-pre_course main" and then i added a commit message.

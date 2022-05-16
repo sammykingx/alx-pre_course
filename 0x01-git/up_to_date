@@ -1,0 +1,2 @@
+to get all changes from a branch to my local machine i used
+"git fetch origin main" where main is the name of the branch

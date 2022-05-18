@@ -1,3 +1,1 @@
-To pull an origin branch from live to local i used the
-
-" git pull https://github.com/sammykingx/alx-pre_course main" and then i added a commit message.
+git pull https://github.com/sammykingx/alx-pre_course.git main
